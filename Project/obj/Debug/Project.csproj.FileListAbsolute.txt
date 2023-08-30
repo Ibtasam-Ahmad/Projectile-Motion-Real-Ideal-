@@ -1,0 +1,20 @@
+C:\Users\0319be\Downloads\Project\Project\bin\Debug\Project.exe.config
+C:\Users\0319be\Downloads\Project\Project\bin\Debug\Project.exe
+C:\Users\0319be\Downloads\Project\Project\bin\Debug\Project.pdb
+C:\Users\0319be\Downloads\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\0319be\Downloads\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\0319be\Downloads\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\0319be\Downloads\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\0319be\Downloads\Project\Project\obj\Debug\Project.exe
+C:\Users\0319be\Downloads\Project\Project\obj\Debug\Project.pdb
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\bin\Debug\Project.exe.config
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\bin\Debug\Project.exe
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\bin\Debug\Project.pdb
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\obj\Debug\Project.Form1.resources
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\obj\Debug\Project.exe
+E:\All Files Folder\Sem 7\Simulation\Simul\Project\Project\obj\Debug\Project.pdb
